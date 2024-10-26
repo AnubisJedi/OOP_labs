@@ -1,8 +1,7 @@
 {
-    "name": "C++ MAI Lecture Examples",
+    "name": "OOP labs",
     "dockerFile": "Dockerfile",
     "context": "..",
-    "appPort": [],
     "extensions": [
         "ms-vscode.cpptools",
         "vscode.cpptools-extension-pack",
@@ -11,5 +10,9 @@
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
-    "postCreateCommand": "apt-get update && apt-get install -y cmake && git config --global --add safe.directory '*'"
+    // Обновляем еще разок пакеты и превентивно решаем проблемы с гитом (в докере мы можем восприниматься как ненадежный пользователь)
+    "postCreateCommand": "apt-get update && apt-get install -y cmake && git config --global --add safe.directory '*'",
+    "mounts": [
+        
+    ]
 }

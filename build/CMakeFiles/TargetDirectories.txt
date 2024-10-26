@@ -1,0 +1,12 @@
+/workspaces/OOP_labs/build/CMakeFiles/edit_cache.dir
+/workspaces/OOP_labs/build/CMakeFiles/rebuild_cache.dir
+/workspaces/OOP_labs/build/lr1/CMakeFiles/lab1.dir
+/workspaces/OOP_labs/build/lr1/CMakeFiles/edit_cache.dir
+/workspaces/OOP_labs/build/lr1/CMakeFiles/rebuild_cache.dir
+/workspaces/OOP_labs/build/lr2/CMakeFiles/edit_cache.dir
+/workspaces/OOP_labs/build/lr2/CMakeFiles/rebuild_cache.dir
+/workspaces/OOP_labs/build/lr3/CMakeFiles/lab3.dir
+/workspaces/OOP_labs/build/lr3/CMakeFiles/edit_cache.dir
+/workspaces/OOP_labs/build/lr3/CMakeFiles/rebuild_cache.dir
+/workspaces/OOP_labs/build/test/CMakeFiles/edit_cache.dir
+/workspaces/OOP_labs/build/test/CMakeFiles/rebuild_cache.dir

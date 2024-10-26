@@ -1,6 +1,6 @@
 #include <iostream>
+#include "figure.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+   
 }
